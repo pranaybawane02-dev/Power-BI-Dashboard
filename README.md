@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# Sale's Performance Dashboard (Power-BI)
                                                                                                           
 📖 Overview                                                                                                                                                        
 Developed an interactive Sales Performance Dashboard in Power BI to analyze key business metrics and support data-driven decision-making. The dashboard provides a clear overview of Sales, Profit, Cost, and Quantity through KPI cards and interactive visualizations.
